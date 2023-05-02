@@ -1,0 +1,11 @@
+Troy, 9
+Leo,6
+Max, 6
+Hank, 5
+Ty, 4
+Zach, 4
+Joe, 3
+Midnight,2
+Sox,2
+Ernst, 1
+
